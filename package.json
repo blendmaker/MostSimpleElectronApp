@@ -1,0 +1,27 @@
+{
+  "name": "mostsimpleelectronapp",
+  "version": "0.0.1",
+  "description": "This is just a very very basic Electron skeleton app. As small as any possible",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blendmaker/MostSimpleElectronApp.git"
+  },
+  "keywords": [
+    "Electron",
+    "Skeleton"
+  ],
+  "author": "Klaus Daume",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/blendmaker/MostSimpleElectronApp/issues"
+  },
+  "homepage": "https://github.com/blendmaker/MostSimpleElectronApp#readme",
+  "devDependencies": {
+    "electron": "^4.1.1"
+  }
+}
